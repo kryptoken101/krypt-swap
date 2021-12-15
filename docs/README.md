@@ -50,5 +50,5 @@ Supported languages:
 Work in progress to add more languages and relevant integrations.
 
 
-Any questions [are welcome](https://pearlium.online)
+For inquiries, [email us](mailto:cryptoservice@pearlium.online)
 
