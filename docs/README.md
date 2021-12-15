@@ -54,6 +54,9 @@ For inquiries, [email us](mailto:cryptoservice@pearlium.online).
 
 
 Mods & development: kriscripting
-Branding: Maverick Santos
-Logo (Graphics): Rommel Santos
+
+Branding (Name & Logo):
+
+- Maverick Santos
+- Rommel Santos
 
