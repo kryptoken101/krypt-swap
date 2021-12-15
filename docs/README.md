@@ -1,6 +1,6 @@
 [![About PRL token](https://img.shields.io/badge/ERC20-PRL-orange)](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
    
-## CoinPearls Wallet
+## CoinPearls Multi-currency Wallet
          
 - 👛 Crypto wallet: BTC, ETН (ERC20), BSC (BEP20), Matic (+tokens), USDT, PRL...
 - 💵 Fiat external gateway: USD, EUR, RUB, UAH...
@@ -12,9 +12,9 @@ Live demo here:
 https://swaponline.io . Testnet https://ropsten.swaponline.io/
 <br> Binance  Smart Chin : https://bsc.swap.io/ . Testnet: https://bsc-testnet.swaponline.site/
 
-Looking for investment opportunity? Visit [pearlium.crypto](https://gateway.pinata.cloud/ipfs/QmTuh2H4zkwmphU276kEdoCwWdqehQRcPfSVVUdNbouBTW)
+Looking for investment opportunity? Visit [pearlium.crypto](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
 
-### 1. Multi-currency wallet: Non-custodial crypto wallet where your users can store Bitcoin and custom assets
+### 1. Non-custodial crypto wallet where your users can store Bitcoin and custom assets
 
 Add many assets to your wallet:
 
@@ -53,9 +53,9 @@ Work in progress to add more languages and relevant integrations.
 For inquiries, [email us](mailto:cryptoservice@pearlium.online).
 
 
-Mods & development: kriscripting
+Mods & development by kriscripting
 
-Branding (Name & Logo):
+Branding Credits:
 
 - Maverick Santos
 - Rommel Santos
