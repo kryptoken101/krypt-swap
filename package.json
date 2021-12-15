@@ -290,7 +290,7 @@
     "superagent": "^6.1.0",
     "swiper": "^7.0.3",
     "typeforce": "^1.18.0",
-    "valuelink": "^1.6.2",
+    "valuelink": "^2.0.9",
     "web3": "^1.5.1"
   }
 }
