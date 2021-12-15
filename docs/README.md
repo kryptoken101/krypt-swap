@@ -14,7 +14,7 @@ https://swaponline.io . Testnet https://ropsten.swaponline.io/
 
 Looking for investment opportunity? Visit [pearlium.crypto](https://gateway.pinata.cloud/ipfs/QmTuh2H4zkwmphU276kEdoCwWdqehQRcPfSVVUdNbouBTW)
 
-### 1. Multi-currency wallet: Non-custodial cryptocurrency wallet where your users can store Bitcoin and custom assets
+### 1. Multi-currency wallet: Non-custodial crypto wallet where your users can store Bitcoin and custom assets
 
 Add many assets to your wallet:
 
