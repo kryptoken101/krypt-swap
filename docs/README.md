@@ -1,4 +1,4 @@
-[![About PRL token](https://img.shields.io/badge/ERC20-PRL-orange)](https://gateway.pinata.cloud/ipfs/QmTuh2H4zkwmphU276kEdoCwWdqehQRcPfSVVUdNbouBTW)
+[![About PRL token](https://img.shields.io/badge/ERC20-PRL-orange)](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
    
 ## CoinPearls Wallet
          
