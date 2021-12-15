@@ -15,7 +15,7 @@ Live demo here:
 https://swaponline.io . Testnet https://ropsten.swaponline.io/
 <br> Binance  Smart Chin : https://bsc.swap.io/ . Testnet: https://bsc-testnet.swaponline.site/
 
-Looking for investment opportunity? Read about [ERC20:SWAP token](/docs/SWAPTOKEN.md) (target price $1)
+Looking for investment opportunity? Visit [pearlium.crypto](https://gateway.pinata.cloud/ipfs/QmTuh2H4zkwmphU276kEdoCwWdqehQRcPfSVVUdNbouBTW)
 
 ### 1. Multi-currency wallet: Non-custodial cryptocurrency wallet where your users can store Bitcoin and custom assets
 
@@ -37,9 +37,7 @@ Add many assets to your wallet:
 - Using your own build? Follow the [customization guide](/docs/CUSTOMIZATION.md)
 
 
-## Open for integrations
-
-See the [list of our clients](/docs/CLIENTS.md)
+## Open for platform integrations
 
 
 ## International
