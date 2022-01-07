@@ -8,10 +8,6 @@
 - 💡 Open-source, client-side
 - 📦 Embeddable into your site!
 
-Live demo here: 
-https://swaponline.io . Testnet https://ropsten.swaponline.io/
-<br> Binance  Smart Chin : https://bsc.swap.io/ . Testnet: https://bsc-testnet.swaponline.site/
-
 Looking for investment opportunity? Visit [pearlium.crypto](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
 
 ### 1. Non-custodial crypto wallet where your users can store Bitcoin and custom assets
