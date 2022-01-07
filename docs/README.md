@@ -53,10 +53,6 @@ Work in progress to add more languages and relevant integrations.
 For inquiries, [email us](mailto:cryptoservice@pearlium.online).
 
 
-Mods & development by kriscripting
-
-Branding Credits:
-
-- Maverick Santos
-- Rommel Santos
+Primary mods & development: Kris Narag
+Support: Stewart Nera . Oliver Narag
 
