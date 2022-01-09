@@ -1,9 +1,9 @@
 [![About PRL token](https://img.shields.io/badge/ERC20-PRL-orange)](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
    
-## CoinPearls Multi-Currency Wallet
+## CoinPearls Wallet with Peer-to-Peer Trading
          
 - 👛 Crypto wallet: BTC, ETН (ERC20), BSC (BEP20), MATIC (+tokens), USDT, PRL...
-- 💵 Fiat external gateway: USD, EUR, RUB, UAH...
+- 💵 Fiat external gateway - OnRamper & itez
 - ⚛️ P2P exchange – atomic swaps
 - 💡 Open-source, client-side
 - 📦 Embeddable into your site!
