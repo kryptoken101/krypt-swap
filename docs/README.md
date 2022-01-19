@@ -1,6 +1,6 @@
 [![About PRL token](https://img.shields.io/badge/ERC20-PRL-orange)](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
    
-## CoinPearls Wallet with Peer-to-Peer Trading
+## CoinPurse Wallet with Peer-to-Peer Trading
          
 - 👛 Crypto wallet: BTC, ETН (ERC20), BSC (BEP20), MATIC (+tokens), USDT, PRL...
 - 💵 Fiat external gateway - OnRamper & itez
@@ -49,6 +49,5 @@ Work in progress to add more languages and relevant integrations.
 For inquiries, [email us](mailto:cryptoservice@pearlium.online).
 
 
-Primary mods & development: Kris Narag
-Support: Stewart Nera . Oliver Narag
+DevOps: Kriatoffer Narag
 
