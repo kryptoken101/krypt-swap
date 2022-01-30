@@ -1,6 +1,6 @@
 [![About Pearlium token](https://img.shields.io/badge/ERC20-PEARL-orange)](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
    
-## CoinPurse Wallet & Exchange w/ P2P Trading        
+## CoinPurse Multicurrency Wallet with P2P Exchange & Fiat Solution        
 - 👛 Crypto Wallet: BTC, ETН (ERC20), BSC (BEP20), MATIC (+tokens), PEARL, USDT...
 - 💵 Fiat External Gateway (On-ramp Solution)
 - ⚛️ P2P Exchange – Atomic Swaps
@@ -48,5 +48,5 @@ Work in progress to add more languages and relevant integrations.
 For inquiries, [email us](mailto:cryptoservice@pearlium.online).
 
 
-DevOps: Kriatoffer Narag
+Powered by swaponline . Mods and development: Kris Narag
 
