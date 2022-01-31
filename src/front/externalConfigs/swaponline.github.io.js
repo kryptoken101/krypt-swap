@@ -1,4 +1,4 @@
-// swaponline.github.io
+// pearliumph.github.io
 
 /* window.widgetEvmLikeTokens = [
   // {
@@ -20,6 +20,13 @@
   //   symbol: 'USDT',
   //   fullName: 'Usdt',
   //   icon: 'https://growup.wpmix.net/wp-content/uploads/2016/10/favicon.png',
+ // {
+  //   standard: 'erc20',
+  //   address: '0x5a05255ad01b39aedc4ab83678ebe9b7cc69e676',
+  //   decimals: 18,
+  //   symbol: 'PEARL',
+  //   fullName: 'Pearl',
+  //   icon: 'https://www.pearlium.online/wp-content/uploads/2022/01/pearlium-letter-img-1.png',
   // },
   // {
   //   standard: 'erc20',
@@ -32,14 +39,17 @@
 ] */
 
 /* window.buildOptions = {
-  ownTokens: false, // Will be inited from window.widgetEvmLikeTokens
-  addCustomTokens: false, // Allow user add custom evm like tokens
+  ownTokens: true, // Will be inited from window.widgetEvmLikeTokens
+  addCustomTokens: true, // Allow user add custom evm like tokens
   curEnabled: { // Or 'false' if enabled all
     btc: true,
     eth: true,
+    bnb: true,
+    matic: true,
+    pearl: true,
   },
   showWalletBanners: true, // Allow to see banners
-  invoiceEnabled: false, // Allow create invoices
+  invoiceEnabled: true, // Allow create invoices
 } */
 
 
@@ -52,18 +62,20 @@ window.buildOptions = {
     eth: true,
     bnb: true,
     matic: true,
+    pearl: true,
+    xdai:true,
     arbeth: true,
     ghost: true,
     next: true,
   },
   blockchainSwapEnabled: {
     btc: true,
-    eth: false,
-    bnb: false,
-    matic: false,
-    arbeth: false,
-    ghost: false,
-    next: false,
+    eth: true,
+    bnb: true,
+    matic: true,
+    arbeth: true,
+    ghost: true,
+    next: true,
   },
   defaultExchangePair: {
     buy: '{eth}wbtc',

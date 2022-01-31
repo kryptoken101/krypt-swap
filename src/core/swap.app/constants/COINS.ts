@@ -3,6 +3,7 @@ export const COIN_TYPE = Object.freeze({
   ETH_TOKEN: 'ETH_TOKEN',
   BNB_TOKEN: 'BNB_TOKEN',
   MATIC_TOKEN: 'MATIC_TOKEN',
+  PEARL_TOKEN: 'PEARL_TOKEN',
 })
 
 export const TOKEN_STANDARD = Object.freeze({
@@ -16,14 +17,14 @@ export const BLOCKCHAIN = Object.freeze({
   GHOST: 'GHOST',
   NEXT: 'NEXT',
   ETH: 'ETH',
-  BNB: 'BNB', // TODO: rename with BSC
+  BSC: 'BSC', // TODO: rename with BSC
   MATIC: 'MATIC',
   ARBITRUM: 'ARBITRUM',
 })
 
 export const BASE_TOKEN_CURRENCY = Object.freeze({
   ETH: 'ETH',
-  BNB: 'BNB',
+  BSC: 'BSC',
   MATIC: 'MATIC'
 })
 
@@ -53,7 +54,7 @@ export const COIN_DATA = {
     ticker: 'BNB',
     name: 'Binance Coin',
     type: COIN_TYPE.NATIVE,
-    blockchain: BLOCKCHAIN.BNB,
+    blockchain: BLOCKCHAIN.BSC,
     model: COIN_MODEL.AB,
     precision: 18,
   },
@@ -125,6 +126,15 @@ export const COIN_DATA = {
     model: COIN_MODEL.AB,
     precision: 18,
   },
+'PEARL': {
+    ticker: 'PEARL',
+    name: 'Pearl Token',
+    type: COIN_TYPE.PEARL_TOKEN,
+    blockchain: BLOCKCHAIN.MATIC,
+    standard: TOKEN_STANDARD.ERC20,
+    model: COIN_MODEL.AB,
+    precision: 18,
+  },
   'SNM': {
     ticker: 'SONM',
     name: 'SWAP',
@@ -147,6 +157,7 @@ export const NATIVE = {
   arbeth: 'ARBETH',
   ghost: 'GHOST',
   next: 'NEXT',
+  pearl: 'PEARL',
 }
 
 export const BNB_TOKENS = {
@@ -180,5 +191,6 @@ export default {
   ...ETH_TOKENS,
   ...BNB_TOKENS,
   ...MATIC_TOKENS,
+  ...PEARL_TOKENS,
   ...COIN_DATA,
 }

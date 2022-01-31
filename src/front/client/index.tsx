@@ -12,6 +12,17 @@ import config from 'app-config'
 import isLocalIP from 'is-local-ip'
 import feedback from 'shared/helpers/feedback'
 
+export default {
+  colored: {
+    yourUrl: imageName,
+    localhost: base,
+    'wallet.pearlium.online': coinPurseColored,
+  },
+  common: {
+    yourUrl: imageName,
+    'wallet.pearlium.online': coinPurse,
+  },
+}
 
 // eslint-disable-next-line camelcase
 const __webpack_public_path__ = `${config.publicPath}images/` // It makes webpack-require-from plugin works. So dont delete it.

@@ -8,7 +8,7 @@
     <meta property="og:image:type" content="image/svg+xml" />
     <meta
       property="og:image"
-      content="https://wiki.swaponline.io/assets/swaponline_io.svg"
+      content="https://pearlium.online/wp-content/uploads/2022/01/virtual-pearl-removebg-preview.png"
     />
     <meta http-equiv="refresh" content="3600">
     <link
@@ -18,7 +18,7 @@
       crossorigin="anonymous"
     />
     <link
-      href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900%7CRoboto%20Mono&#038;display=swap&#038;subset=latin%2Ccyrillic"
+      href="https://fonts.googleapis.com/css?family=Open-sans:400,500,700,900%7COpen-sans%20Mono&#038;display=swap&#038;subset=latin%2Ccyrillic"
       rel="stylesheet"
     />
     <link
@@ -29,7 +29,7 @@
     />
 
     <meta name="google" content="notranslate" />
-    <meta property="og:url" content="https://swaponline.io" />
+    <meta property="og:url" content="https://wallet.pearlium.online" />
 
     <link rel="stylesheet" href="variables.css">
 
@@ -385,8 +385,11 @@
     <section class="starter-modal d-none" id="starter-modal">
       <div class="starter-modal__container-content">
         <h2 class="starter-modal__title">
-          Simple interface to access blockchains
-        </h2>
+          CoinPurse Multicurrency Wallet & Exchange 
+        </h2><br>
+         <h3 class="starter-modal__title">
+          Your all-in-one crypto wallet & gateway to access your blockchains
+        </h3>
 
         <div class="starter-modal__description-container">
           <div class="starter-modal__description">
@@ -422,9 +425,9 @@
               </defs>
             </svg>
             <p class="text">
-              Store, send, receive cryptocurrencies<br>
-              (Bitcoin, Ethereum, tokens...)<br>
-              without installation and registration
+              Store, send, and receive crypto assets<br>
+              (Bitcoin, Ethereum, Pearl, etc.)<br>
+              FREE and Easy-to-use, No Registration
             </p>
           </div>
 
@@ -461,8 +464,9 @@
               </defs>
             </svg>
             <p class="text">
-              Trade on the decentralized P2P exchange<br>
-              using atomic swap technology
+              Trade on the Decentralized P2P Exchange<br>
+              Using Atomic Swap Technology <br>
+              Integrated Fiat-to-crypto Solution
             </p>
           </div>
         </div>
@@ -537,7 +541,7 @@
           </div>
           <div class="starter-modal__btn-container">
             <button id="preloaderRestoreBtn" class="starter-modal__btn starter-modal__btn_skip">
-              Restore from 12-word seed
+              Restore from 12-word seed phrase
             </button> 
           </div>
           <div class="starter-modal__link-container">
@@ -554,16 +558,16 @@
       <div id="wrapper_element" class="overlay">
         <div class="center">
           <div id="loader" class="loader">
-            <img id="loaderImg" />
+            <img id="loaderImg" src="https://pearlium.online/wp-content/uploads/2022/01/virtual-pearl-removebg-preview.png" />
           </div>
           <div id="beforeJSTip" class="tips">Loading...</div>
         </div>
         <div class="mb-4 show-on-fail-ls d-none" id="onFailLocalStorageMessage">
           <span
-            >Not every function works In this window, please open new tab. If
-            the error will repeat please contact admin
+            >Unable to execute functions at this time. Please open new browser tab. If
+            the issue persists, please contact the System Administrator.
             <br />
-            <a href="https://t.me/sashanoxon"> https://t.me/sashanoxon </a>
+            <a href="https://t.me/pearliumph"> https://t.me/pearliumph </a>
           </span>
           <button class="btn btn-primary btc-open-in-new-tab">
             <a
@@ -571,7 +575,7 @@
               id="onFailLocalStorageLink"
               target="_blank"
             >
-              Open App in new tab
+              Open App In New Tab
             </a>
           </button>
         </div>
@@ -842,11 +846,12 @@
       }
 
       window.prerenderReady = false;
-      window.isUserRegisteredAndLoggedIn = false;
+      window.isUserRegisteredAndLoggedIn = true;
       window.DEFAULT_FIAT = 'USD';
-      window.DefaultCountryCode = '+1';
-      window.widgetName = 'own widget name';
-      window.buyViaCreditCardLink = 'https://buy.itez.com/'; // need replace at 'https://buy.itez.com/swaponline' by default
+      window.DefaultCountryCode = '+63';
+      window.widgetName = 'CoinPurse Widget';
+      window.defaultWindowTitle = 'CoinPurse Wallet & Exchange';
+      window.buyViaCreditCardLink = 'https://onramper.com/'; // replace as needed
 
       if (window.brandColor) {
         document.documentElement.style.setProperty("--color-brand", window.brandColor);
@@ -945,7 +950,7 @@
         });
       }
 
-      window.logoUrl = window.logoUrl || '#';
+      window.logoUrl = window.logoUrl || 'https://wallet.pearlium.online';
       window.darkLogoUrl = window.darkLogoUrl || '';
       window.loaderLogoUrl = window.loaderLogoUrl || '';
 
@@ -955,11 +960,11 @@
 
       if (
         window.location.hostname === "localhost" ||
-        window.location.hostname === "swaponline.github.io" ||
-        window.location.hostname === "swaponline.io"
+        window.location.hostname === "pearliumph.github.io" ||
+        window.location.hostname === "wallet.pearlium.online"
       ) {
         // used by Loader component
-        window.loaderLogoUrl = "https://wiki.swaponline.io/assets/swaponline_io.svg";
+        window.loaderLogoUrl = "https://www.pearlium.online/wp-content/uploads/2022/01/coinpurse-1.png";
         document.getElementById("loaderImg").src = window.loaderLogoUrl;
       } else {
         if (window.logoUrl != '#') {
@@ -972,7 +977,7 @@
 
 
       /* Google Analytics */
-      const isMainDomain = window.location.hostname === 'swaponline.io';
+      const isMainDomain = window.location.hostname === 'wallet.pearlium.online';
       const isExtension =
         window.location.hostname === 'jbhhiineefefhcaoocmnkbmgfjbhninc';
 

@@ -1,4 +1,10 @@
 export default {
+  pearl: {
+    address: '0x5a05255ad01b39aedc4ab83678ebe9b7cc69e676',
+    decimals: 18,
+    fullName: 'Pearl Token',
+    canSwap: true,
+  },
   swap: {
     address: '0x14a52cf6B4F68431bd5D9524E4fcD6F41ce4ADe9',
     decimals: 18,

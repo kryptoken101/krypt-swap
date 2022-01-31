@@ -14,7 +14,7 @@ const HowItWorks = () => (
           <FormattedMessage id="HowItWorks18" defaultMessage="1. Select your cryptocurrency and the amount." />
         </span>
         <span styleName="HowItWorksInfo">
-          <FormattedMessage id="HowItWorks21" defaultMessage="Choose a cryptocurrency that you have at your disposal on any external wallet, exchange, or Swap Online wallet" />
+          <FormattedMessage id="HowItWorks21" defaultMessage="Choose a cryptocurrency that you have at your disposal on any external wallet, exchange, or CoinPurse Wallet" />
         </span>
       </div>
       <div styleName="HowItWorksItem">
