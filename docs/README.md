@@ -13,7 +13,7 @@ Looking for investment opportunity? Visit [pearlium.crypto](https://gateway.pina
 
 Add many assets to your wallet:
 
-<img src="https://wallet.wpmix.net/codecanyon_description_3.jpg">
+<img src="https://www.pearlium.online/wp-content/uploads/2022/01/cryptoexchange.png">
 
 ### 2. ERC20 token wallet
 
