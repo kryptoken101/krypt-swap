@@ -4,7 +4,7 @@
 2. Clone repository
 
 ```
-git clone https://github.com/kriscripting17/CoinPearls.git
+git clone https://github.com/pearliumph/CoinPurse.git
 ```
 
 3. Use Node 14
@@ -21,7 +21,7 @@ nvm use 14
 4. Install modules
 
 ```
-cd MultiCurrencyWallet
+cd CoinPurse
 npm i
 ```
 
@@ -49,7 +49,7 @@ HOST=X.X.X.X npm run dev
 6. Build for prod
 
 ```
-npm run build:mainnet https://yourcoolsite.com/
+npm run build:mainnet https://mywebsite.com/
 ```
 
 (don't forget to add a slash in the end of url)
