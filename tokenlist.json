@@ -1003,7 +1003,7 @@
         "symbol": "PEARL",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://github.com/pearliumph/CoinPurse/blob/master/pearlium300x300.png"
+        "logoURI": "https://ipfs.io/ipfs/QmaV3iosWmXaxQGFfcbGxhpwvnyBcaGhG1R3qb1Ahh64iR?filename=pearlium300x300.png"
       },
     {
       "name": "PolkaBridge",
