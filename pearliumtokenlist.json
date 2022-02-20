@@ -1,5 +1,5 @@
 {
-  "name": "Quickswap Token List",
+  "name": "Quickswap Pearl Token List",
   "timestamp": "2022-02-02T10:07:52.228Z",
   "version": {
     "major": 1,
@@ -1003,7 +1003,7 @@
         "symbol": "PEARL",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://user-images.githubusercontent.com/87101200/153526408-854c34bb-cbc9-4759-9a98-a18a4600851f.png"
+        "logoURI": "https://i.imgur.com/4VbDhRw.png"
       },
     {
       "name": "PolkaBridge",
