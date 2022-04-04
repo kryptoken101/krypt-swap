@@ -4,7 +4,7 @@
 2. Clone repository
 
 ```
-git clone https://github.com/pearliumph/CoinPurse.git
+git clone https://github.com/kryptoken101/krypt-wallet.git
 ```
 
 3. Use Node 14
