@@ -19,7 +19,7 @@ export default {
 }
 ```
 
-(Way to index.html: `CoinPurse/src/front/client/index.html`)
+(Way to index.html: `krypt-wallet/src/front/client/index.html`)
 
 - For change preloader go to `index.html` and change url to tour image
 
@@ -29,14 +29,14 @@ export default {
   </div>
 ```
 
-- change Cryptocurrency color `CoinPurse/src/front/shared/components/ui/CurrencyIcon/images`
+- change Cryptocurrency color `krypt-wallet/src/front/shared/components/ui/CurrencyIcon/images`
 - change icon to your (with the same name, e.x. "bitcoin.svg")
-- change Cryptocurrency icon `CoinPurse/src/front/shared/pages/Exchange/CurrencySlider/images`
+- change Cryptocurrency icon `krypt-wallet/src/front/shared/pages/Exchange/CurrencySlider/images`
 
 
 ## 2. Change links to social networks
 
-Set your own links in `CoinPurse/src/front/shared/helpers/links.js`
+Set your own links in `krypt-wallet/src/front/shared/helpers/links.js`
 
 
 ## 3. Change text
@@ -46,7 +46,7 @@ To prevent any conflicts in future (when you will update your source from our br
 - find in source text like this:
   `<FormattedMessage id="Row313" defaultMessage="Deposit" /> `
 
-- go to folder `CoinPurse/src/front/shared/localisation`
+- go to folder `krypt-wallet/src/front/shared/localisation`
   open en.json
   find string with the same id ("Row313")
 
@@ -65,9 +65,9 @@ To prevent any conflicts in future (when you will update your source from our br
 
 ## 4. Add your ERC20 token
 
-- go to `CoinPurse/src/front/config/mainnet/erc20.js`
-- go to `CoinPurse/src/core/swap.app/constants/COINS.js` and add token there too
-- go to `CoinPurse/src/front/shared/redux/reducers/currencies.js` and add token there too
+- go to `krypt-wallet/src/front/config/mainnet/erc20.js`
+- go to `krypt-wallet/src/core/swap.app/constants/COINS.js` and add token there too
+- go to `krypt-wallet/src/front/shared/redux/reducers/currencies.js` and add token there too
 
 
 ## 5. Add token to "Create wallet" screen
@@ -127,7 +127,7 @@ Example: [swaponline.github.io.js](https://github.com/swaponline/MultiCurrencyWa
 ## How to update your version (fork) to latest version
 
 0. Make backup and `git push` all your changes to your repository
-1. go here https://github.com/pearliumph/CoinPurse/compare?expand=1 , click <kbd>Compare across forks</kbd>
+1. go here https://github.com/kryptoken101/krypt-wallet/compare?expand=1 , click <kbd>Compare across forks</kbd>
 2. select your repository in "base branch" (left)
 3. click "Create pull request" (enter any title)
 4. click "Merge pull request"
