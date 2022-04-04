@@ -21,7 +21,7 @@ nvm use 14
 4. Install modules
 
 ```
-cd CoinPurse
+cd krypt-wallet
 npm i
 ```
 
