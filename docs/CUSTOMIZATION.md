@@ -24,9 +24,9 @@ export default {
 - For change preloader go to `index.html` and change url to tour image
 
 ```
-  <div id="loader" class="loader">
-      <img id="loaderImg" src="https://wiki.swap.online/assets/swap-logo.png" />
-  </div>
+   <div id="loader" class="loader">
+            <img id="loaderImg" src="https://kryptoken.site/wp-content/uploads/2022/04/kryptlogo.png" />
+   </div>
 ```
 
 - change Cryptocurrency color `krypt-wallet/src/front/shared/components/ui/CurrencyIcon/images`
