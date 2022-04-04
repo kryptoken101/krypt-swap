@@ -1,13 +1,13 @@
-[![About Pearlium token](https://img.shields.io/badge/ERC20-PEARL-orange)](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
+[![About KRYPT Wallet](https://img.shields.io/badge/ERC20-KRYPT-orange)](https://kryptoken.site)
    
-## CoinPurse Multicurrency Wallet with P2P Exchange & Fiat Solution        
-- 👛 Crypto Wallet: BTC, ETН (ERC20), BSC (BEP20), MATIC (+tokens), PEARL, USDT...
-- 💵 Fiat External Gateway (On-ramp Solution)
+## KRYPT Multicurrency Wallet with P2P Exchange & Turnkey Fiat OnRamp        
+- 👛 Crypto Wallet: BTC, ETН (ERC20), BSC (BEP20), MATIC (+tokens), KRYPT, USDT...
+- 💵 Fiat External Gateway (OnRamper Widget)
 - ⚛️ P2P Exchange – Atomic Swaps
 - 💡 Open-Source, Client-Side
 - 📦 Web App (Browser Extension), Embeddable Portal!
 
-Looking for investment opportunity? Visit [pearlium.crypto](https://gateway.pinata.cloud/ipfs/QmcSF5sDGnhrewVgdU4AEfoGaSSrP9yC1eA7v1NM4E8qXG)
+Looking for investment opportunity? Visit [kryptoken.site](https://kryptoken.site)
 
 ### 1. Non-custodial crypto wallet where your users can store Bitcoin and custom assets
 
@@ -45,8 +45,8 @@ Supported languages:
 Work in progress to add more languages and relevant integrations.
 
 
-For inquiries, [email us](mailto:pearliumph@gmail.com).
+For inquiries, [email us](mailto:service@kryptoken.site).
 
 
-Mods and development: Kristoffer Narag
+Mods and development: kriscripting
 
