@@ -13,7 +13,7 @@ Looking for investment opportunity? Visit [kryptoken.site](https://kryptoken.sit
 
 Add many assets to your wallet:
 
-<img src="http://www.pearlium.online/wp-content/uploads/2022/02/coinpurse.png">
+<img src="https://kryptoken.site/wp-content/uploads/2022/04/krypt-wallet.png">
 
 ### 2. ERC20 token wallet
 
