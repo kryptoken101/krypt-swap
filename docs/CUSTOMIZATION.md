@@ -2,8 +2,8 @@
 
 ## 1. Change logo
 
-- copy svg logos to `MultiCurrencyWallet/src/front/shared/components/Logo/images` folder
-- in `MultiCurrencyWallet/src/front/client/index.js` set up your url and image
+- copy svg logos to `krypt-swap/src/front/shared/images/logo` folder
+- in `krypt-swap/src/front/client/index.js` set up your url and image
 
 ```
 export default {
@@ -36,7 +36,7 @@ export default {
 
 ## 2. Change links to social networks
 
-Set your own links in `krypt-wallet/src/front/shared/helpers/links.js`
+Set your own links in `krypt-swap/src/front/shared/helpers/links.js`
 
 
 ## 3. Change text
@@ -65,14 +65,14 @@ To prevent any conflicts in future (when you will update your source from our br
 
 ## 4. Add your ERC20 token
 
-- go to `krypt-wallet/src/front/config/mainnet/erc20.js`
-- go to `krypt-wallet/src/core/swap.app/constants/COINS.js` and add token there too
-- go to `krypt-wallet/src/front/shared/redux/reducers/currencies.js` and add token there too
+- go to `krypt-swap/src/front/config/mainnet/erc20.js`
+- go to `krypt-swap/src/core/swap.app/constants/COINS.js` and add token there too
+- go to `krypt-swap/src/front/shared/redux/reducers/currencies.js` and add token there too
 
 
 ## 5. Add token to "Create wallet" screen
 
-- go to `CoinPurse/src/front/shared/redux/reducers/currencies.js` and change `addAssets: false,` to `true`
+- go to `krypt-swap/src/front/shared/redux/reducers/currencies.js` and change `addAssets: false,` to `true`
 
 
 ## 6. Change project name in "too many tabs" screen
@@ -106,7 +106,7 @@ in `index.html` edit `window.isUserRegisteredAndLoggedIn = false` to `true`
 
 ## enable/disbale blockchains on domain
 
-add config named as your domain to `CoinPurse/src/front/externalConfigs/swaponline.github.io.js`
+add config named as your domain to `krypt-swap/src/front/externalConfigs/swaponline.github.io.js`
 
 ```
 window.buildOptions = {
@@ -115,13 +115,13 @@ window.buildOptions = {
   curEnabled: {
     btc: true,
     eth: true,
+    matic: true,
+    krypt: true,
     ghost: true,
     next: true,
   },
 }
 ```
-
-Example: [swaponline.github.io.js](https://github.com/swaponline/MultiCurrencyWallet/blob/master/src/front/externalConfigs/swaponline.github.io.js#L43)
 
 
 ## How to update your version (fork) to latest version
