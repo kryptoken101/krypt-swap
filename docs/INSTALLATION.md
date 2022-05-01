@@ -4,7 +4,7 @@
 2. Clone repository
 
 ```
-git clone https://github.com/kryptoken101/krypt-wallet.git
+git clone https://github.com/kryptoken101/krypt-swap.git
 ```
 
 3. Use Node 14
@@ -21,7 +21,7 @@ nvm use 14
 4. Install modules
 
 ```
-cd krypt-wallet
+cd krypt-swap
 npm i
 ```
 
