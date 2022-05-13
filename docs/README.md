@@ -13,7 +13,7 @@ Looking for investment opportunity? Visit [kryptoken.site](https://kryptoken.sit
 
 Add many assets to your wallet:
 
-<img src="https://kryptoken.site/wp-content/uploads/2022/05/krypt-cover-3.png">
+<img src="https://kryptoken.site/wp-content/uploads/2022/05/kryptwallet.png">
 
 ### 2. ERC20 token wallet
 
