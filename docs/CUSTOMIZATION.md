@@ -10,11 +10,11 @@ export default {
   colored: {
     yourUrl: imageName,
     localhost: base,
-    'swap.online': swapOnlineColored,
+    'kryptoken.site': logo-colored,
   },
   common: {
     yourUrl: imageName,
-    'swap.online': swapOnline,
+    'kryptoken.site': logo-black,
   },
 }
 ```
