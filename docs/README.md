@@ -1,20 +1,5 @@
 [![About KRYPT Wallet](https://img.shields.io/badge/ERC20-KRYPT-orange)](https://kryptoken.site)
-   
-## KRYPT Multicurrency Wallet with P2P Exchange & Turnkey Fiat OnRamp        
-- 👛 Crypto Wallet: BTC, ETН (ERC20), BSC (BEP20), MATIC (+tokens), KRYPT, USDT...
-- 💵 Fiat External Gateway (OnRamper Widget)
-- ⚛️ P2P Exchange – Atomic Swaps
-- 💡 Open-Source, Client-Side
-- 📦 Web App (Browser Extension), Embeddable Portal!
-
-Looking for investment opportunity? Visit [kryptoken.site](https://kryptoken.site)
-
-### 1. Non-custodial crypto wallet where your users can store Bitcoin and custom assets
-
-Add many assets to your wallet:
-
-<img src="[![About KRYPT Wallet](https://img.shields.io/badge/ERC20-KRYPT-orange)](https://kryptoken.site)
-   
+      
 ## KRYPT Multicurrency Wallet with P2P Exchange & Turnkey Fiat OnRamp        
 - 👛 Crypto Wallet: BTC, ETН (ERC20), BSC (BEP20), MATIC (+tokens), KRYPT, USDT...
 - 💵 Fiat External Gateway (OnRamper Widget)
@@ -99,5 +84,5 @@ Work in progress to add more languages and relevant integrations.
 For inquiries, [email us](mailto:service@kryptoken.site).
 
 
-Mods and development: kriscripting
+Mods and development: [kriScripting](mailto:developer@kryptoken.site)
 
