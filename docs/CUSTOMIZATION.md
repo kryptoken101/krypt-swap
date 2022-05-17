@@ -10,11 +10,11 @@ export default {
   colored: {
     yourUrl: imageName,
     localhost: base,
-    'kryptoken.site': logo-colored,
+    'app.kryptoken.site': logoColored,
   },
   common: {
     yourUrl: imageName,
-    'kryptoken.site': logo-black,
+    'app.kryptoken.site': logoBlack,
   },
 }
 ```
